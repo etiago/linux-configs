@@ -1,1 +1,3 @@
-/usr/bin/emacsclient-nw
+#!/bin/sh
+
+emacsclient --create-frame -nw "$@"
