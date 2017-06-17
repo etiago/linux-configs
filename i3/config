@@ -196,8 +196,8 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 # Window compositor to get rid of screen tearing (i.e., the vertical shakiness on playing videos and scrolling)
 exec --no-startup-id compton
 # Configs for the touchpad (probably different on every laptop)
-exec --no-startup-id xinput set-prop 13 279 1
-exec --no-startup-id xinput set-prop 13 289 1
+exec --no-startup-id xinput set-prop 11 274 1
+exec --no-startup-id xinput set-prop 11 284 1
 # Bluetooth Manager
 exec --no-startup-id blueman-applet
 # Chinese Input

@@ -1,0 +1,38 @@
+x:systemctl enable lvm2-monitor.service
+dunst
+aur:i3-gaps
+aur:albert
+pavucontrol
+alsa-utils
+pulseaudio
+pulseaudio-bluetooth
+aur:acpilight
+aur:google-chrome
+compton
+xfce4
+xfce4-goodies
+fcitx
+fcitx-configtool
+fcitx-googlepinyin
+fcitx-gtk2
+fcitx-gtk3
+networkmanager
+network-manager-applet
+aur:spotify
+xorg-server
+xorg-xinput
+aur:telegram-desktop-bin
+redshift
+python-xdg
+emacs
+kdeconnect
+aur:indicator-kdeconnect-git
+blueman
+feh
+aur:ttf-font-awesome
+noto-fonts
+noto-fonts-cjk
+powertop
+tlp
+x:systemctl enable tlp.service
+x:systemctl enable tlp-sleep.service
