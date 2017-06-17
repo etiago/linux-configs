@@ -1,6 +1,7 @@
 x:systemctl enable lvm2-monitor.service
 dunst
 aur:i3-gaps
+i3blocks
 aur:albert
 pavucontrol
 alsa-utils
@@ -36,3 +37,4 @@ powertop
 tlp
 x:systemctl enable tlp.service
 x:systemctl enable tlp-sleep.service
+acpi
