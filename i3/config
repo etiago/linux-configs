@@ -163,6 +163,12 @@ bindsym $mod+r mode "resize"
 #        status_command i3status
 #}
 bar {
+	colors {
+		background #2f343f
+		focused_workspace  #4c7899 #5294e2 #ffffff
+        	inactive_workspace #333333 #2f343f #b3bdcb
+	        urgent_workspace   #2f343a #cc575d #ffffff
+	}
 	status_command i3blocks
         font pango:DejaVu Sans Mono, FontAwesome 18
 }

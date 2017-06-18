@@ -38,3 +38,9 @@ acpi
 zsh
 aur:skypeforlinux-bin
 aur:brother-mfc-j5320dw
+gvfs-smb
+sshfs
+lxappearance
+gnome-keyring
+aur:gtk-theme-arc-git
+arc-icon-theme
