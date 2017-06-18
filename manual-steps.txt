@@ -1,0 +1,3 @@
+- Add lvm2 (before filesystems) to /etc/mkinitcpio.conf hooks (in case of using LVM).
+- Add usr, fsck, shutdown to /etc/mkinitcpio.conf hooks (in case of /usr in separate partition)
+

@@ -1,0 +1,5 @@
+tlp.service
+tlp-sleep.service
+lvm2-monitor.service
+NetworkManager.service
+org.cups.cupsd.service
