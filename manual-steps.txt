@@ -3,3 +3,6 @@
 - Set resume= variable as a kernel argument and add resume hook to /etc/mkinitcpio.conf (after lvm2)
 - Set Gnome theme to Arc
 - Enable multilib in Arch
+- Enable fstrim.timer (periodic, weekly, TRIM on SSD)
+- Set issue_discards from 0 to 1 in /etc/lvm/lvm.conf (so TRIM works)
+

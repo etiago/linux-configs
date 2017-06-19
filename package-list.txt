@@ -44,3 +44,6 @@ lxappearance
 gnome-keyring
 aur:gtk-theme-arc-git
 arc-icon-theme
+vlc
+smplayer
+qt4
