@@ -47,3 +47,6 @@ arc-icon-theme
 vlc
 smplayer
 qt4
+vim
+i3
+gtk3-print-backends

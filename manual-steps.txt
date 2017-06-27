@@ -1,6 +1,7 @@
 - Add lvm2 (before filesystems) to /etc/mkinitcpio.conf hooks (in case of using LVM).
 - Add usr, fsck, shutdown to /etc/mkinitcpio.conf hooks (in case of /usr in separate partition)
 - Set resume= variable as a kernel argument and add resume hook to /etc/mkinitcpio.conf (after lvm2)
+- Add resume hook to mkinitcpio.conf
 - Set Gnome theme to Arc
 - Enable multilib in Arch
 - Enable fstrim.timer (periodic, weekly, TRIM on SSD)
