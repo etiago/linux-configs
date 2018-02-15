@@ -50,3 +50,6 @@ qt4
 vim
 i3
 gtk3-print-backends
+aur:fisherman
+aur:nvm
+aur:android-studio
